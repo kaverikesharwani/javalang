@@ -10,5 +10,7 @@ public class Function{
         System.out.println(prod);
         prod=multiply(30,47);
         System.out.println(prod);
+        prod=multiply(23,45);
+        System.out.println(prod);
     }
 }
